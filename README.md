@@ -16,7 +16,7 @@ Keylogger software is a beginner-level cybersecurity project designed to record 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/yogeshhyogi/keylogger.git
    ```
 
 2. **Install Dependencies:**
